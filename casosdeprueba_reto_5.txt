@@ -1,0 +1,18 @@
+
+================
+Casos de prueba:
+================
+
+Entrada				Salida Esperada
+------------------------------------------------------
+AGREGAR
+11 Melon 70 13			Jamon Melon 4460.9 1015010.0
+
+BORRAR
+10 Jamon 15000 10		Arandanos Galletas 3777.8 864100.0
+
+ACTUALIZAR
+7 Helado 65000 11		Helado Galletas 10950.0 1544600.0
+
+BORRAR
+14 Maiz 45000 12		ERROR
